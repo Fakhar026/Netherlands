@@ -33,7 +33,7 @@
   <h2 class="cp-section-title">Best Forex Brokers In Netherlands Ranked</h2>
   <p class="cp-lead">Ranks weigh entity detail first. Costs come second.</p>
   <h3>Best Forex Brokers in Netherlands Ranked by Regulation and Trading Costs</h3>
-  <div class="cp-table-wrap><table class="bp-table"><thead><tr><th>Broker</th><th>Regulation</th><th>Leverage</th><th>EUR/USD Spread</th><th>Platforms</th></tr></thead><tbody>
+  <div class="cp-table-wrap"><table class="bp-table"><thead><tr><th>Broker</th><th>Regulation</th><th>Leverage</th><th>EUR/USD Spread</th><th>Platforms</th></tr></thead><tbody>
 <tr><td><span class="cp-trank cp-trank--g">1</span> <strong>IG</strong></td><td><span class="cp-badge cp-bb">BaFin 148759</span></td><td>1:30 on majors (retail)</td><td>From 0.6 pips</td><td>IG platform, MT4, ProRealTime</td></tr>
 <tr><td><span class="cp-trank cp-trank--s">2</span> <strong>Capital.com</strong></td><td><span class="cp-badge cp-bb">CySEC 319/17</span></td><td>1:30 on majors (retail)</td><td>From 0.6 pips</td><td>Capital.com platform, TradingView</td></tr>
 <tr><td><span class="cp-trank cp-trank--b">3</span> <strong>Pepperstone</strong></td><td><span class="cp-badge cp-bb">CySEC 388/20</span></td><td>1:30 on majors (retail)</td><td>From 0.0 pips (Razor)</td><td>MT4, MT5, cTrader, TradingView</td></tr>
@@ -67,7 +67,7 @@
   <h2 class="cp-section-title">Fees And Entry Costs For The Best Forex Brokers In Netherlands</h2>
   <p class="cp-lead">Costs differ by account.</p>
   <h3>How Broker Fees and Entry Costs Compare for Dutch Traders</h3>
-  <div class="cp-table-wrap><table class="bp-table"><thead><tr><th>Broker</th><th>Min. Deposit</th><th>Commission Per Lot, Per Side</th><th>Withdrawal Fee</th><th>Negative Balance</th><th>Compensation Scheme</th></tr></thead><tbody>
+  <div class="cp-table-wrap"><table class="bp-table"><thead><tr><th>Broker</th><th>Min. Deposit</th><th>Commission Per Lot, Per Side</th><th>Withdrawal Fee</th><th>Negative Balance</th><th>Compensation Scheme</th></tr></thead><tbody>
 <tr><td><strong>IG</strong></td><td>No minimum</td><td>None on forex, spread only</td><td>No broker fee</td><td>Yes</td><td>EdW, 90% up to €20,000</td></tr>
 <tr><td><strong>Capital.com</strong></td><td>€20 by card, €250 by wire</td><td>None, spread only</td><td>No broker fee</td><td>*</td><td>ICF Cyprus</td></tr>
 <tr><td><strong>Pepperstone</strong></td><td>No minimum</td><td>Razor only, rate on broker price list</td><td>No broker fee</td><td>*</td><td>#</td></tr>
@@ -87,7 +87,9 @@
 <div class="cp-broker-card cp-gold">
 <span class="cp-rank-badge">🥇 #1</span>
 
-<div class="cp-bc-info"><div class="cp-broker-name">IG</div><div class="cp-broker-tag">Clearest Compensation Cover.</div></div>
+<div class="cp-bc-info"><img class="cp-broker-logo" src="https://babeepips.com/wp-content/uploads/2026/05/ig.webp" alt="IG logo" width="80" height="80" loading="lazy" decoding="async">
+<div class="cp-broker-name">IG</div><div class="cp-broker-tag">Clearest Compensation Cover.</div>
+<div class="cp-broker-stars" role="img" aria-label="Broker rating not independently scored">Entity and terms assessed</div></div>
 <div class="cp-broker-rows">
 <div class="cp-broker-row"><span>Entity:</span><strong>IG Europe GmbH.</strong></div>
 <div class="cp-broker-row"><span>Regulator:</span><strong>BaFin Germany, register 148759.</strong></div>
@@ -99,7 +101,9 @@
 </div><div class="cp-broker-card cp-silver">
 <span class="cp-rank-badge">🥈 #2</span>
 
-<div class="cp-bc-info"><div class="cp-broker-name">Capital.com</div><div class="cp-broker-tag">Cyprus Entity, Fund Member.</div></div>
+<div class="cp-bc-info"><img class="cp-broker-logo" src="https://babeepips.com/wp-content/uploads/2026/05/capitalcom.webp" alt="Capital.com logo" width="80" height="80" loading="lazy" decoding="async">
+<div class="cp-broker-name">Capital.com</div><div class="cp-broker-tag">Cyprus Entity, Fund Member.</div>
+<div class="cp-broker-stars" role="img" aria-label="Broker rating not independently scored">Entity and terms assessed</div></div>
 <div class="cp-broker-rows">
 <div class="cp-broker-row"><span>Entity:</span><strong>Capital Com SV Investments Limited.</strong></div>
 <div class="cp-broker-row"><span>Regulator:</span><strong>CySEC Cyprus, licence 319/17.</strong></div>
@@ -111,7 +115,9 @@
 </div><div class="cp-broker-card cp-bronze">
 <span class="cp-rank-badge">🥉 #3</span>
 
-<div class="cp-bc-info"><div class="cp-broker-name">Pepperstone</div><div class="cp-broker-tag">Widest Platform Choice.</div></div>
+<div class="cp-bc-info"><img class="cp-broker-logo" src="https://babeepips.com/wp-content/uploads/2026/05/pepperstone.webp" alt="Pepperstone logo" width="80" height="80" loading="lazy" decoding="async">
+<div class="cp-broker-name">Pepperstone</div><div class="cp-broker-tag">Widest Platform Choice.</div>
+<div class="cp-broker-stars" role="img" aria-label="Broker rating not independently scored">Entity and terms assessed</div></div>
 <div class="cp-broker-rows">
 <div class="cp-broker-row"><span>Entity:</span><strong>Pepperstone EU Limited.</strong></div>
 <div class="cp-broker-row"><span>Regulator:</span><strong>CySEC Cyprus, licence 388/20.</strong></div>
@@ -127,6 +133,15 @@
 <section class="cp-section" id="methodology">
   <h2 class="cp-section-title">Methodology For The Best Forex Brokers In Netherlands</h2>
   <p class="cp-lead">The method relies on official broker websites and regulator registers. It also reads fee schedules and account terms. Bank and payment details, platform pages and charts add context. Each broker is weighed on licence status, instruments and spreads. Commissions, funding routes, leverage and protections count too. Dutch rules and the entity that contracts with Dutch clients shape every rank.</p>
+<div class="cp-table-wrap"><table class="bp-table"><thead><tr><th>Factor</th><th>Assessment</th><th>Netherlands-Specific Check</th></tr></thead><tbody>
+<tr><td>Regulation</td><td>Licence, regulator register and client protections.</td><td>Entity serving Dutch residents and its EU passport.</td></tr>
+<tr><td>Costs</td><td>Published spreads, commissions and account fees.</td><td>Pricing for the selected entity.</td></tr>
+<tr><td>Funding</td><td>Deposit, withdrawal and conversion terms.</td><td>Euro transfers and methods available to Dutch clients.</td></tr>
+<tr><td>Platforms</td><td>Platform availability and trading tools.</td><td>Platforms offered by the relevant entity.</td></tr>
+<tr><td>Account terms</td><td>Minimum deposit, leverage and protection.</td><td>EU retail restrictions and legal agreement.</td></tr>
+<tr><td>Transparency</td><td>Clarity of legal, fee and policy disclosures.</td><td>Named entity, regulator and complaint route.</td></tr>
+</tbody></table></div>
+<div class="cp-insight"><p><strong>Scoring note:</strong> Rankings reflect documented information. No unsupported numerical score is assigned.</p></div>
   <p>Country access follows each broker's own pages. IG lists Europe outside the UK and Switzerland. Capital.com excludes Belgium, the USA, Canada and non EEA states. Pepperstone excludes Belgium, Spain and the USA. AvaTrade runs a Dutch language site. XTB reaches Dutch clients on its Polish passport. Pick the Netherlands in each sign up menu before you pay.</p>
   <p>IG Europe GmbH shows the approach. Its legal page names BaFin register number 148759 and the EdW scheme. The other four follow their own legal pages. Terms move, so read your entity's agreement before funding. The full process sits on the <a href="https://babeepips.com/methodology/">methodology page</a>. Some outbound links are affiliate links. A link never moves a rank.</p>
 </section>
@@ -170,7 +185,7 @@
   <h2 class="cp-section-title">Category Leaders Among The Best Forex Brokers In Netherlands</h2>
   <p class="cp-lead">Terms decide each leader.</p>
   <h3>Category Leaders by Deposit, Compensation and Platforms</h3>
-  <div class="cp-table-wrap><table class="bp-table"><thead><tr><th>Category</th><th>Leader</th></tr></thead><tbody>
+  <div class="cp-table-wrap"><table class="bp-table"><thead><tr><th>Category</th><th>Leader</th></tr></thead><tbody>
     <tr><td><strong>No Minimum Deposit</strong></td><td>IG, Pepperstone and XTB</td></tr>
     <tr><td><strong>Lowest Card Entry</strong></td><td>Capital.com (about €20)</td></tr>
     <tr><td><strong>Clearest Compensation Detail</strong></td><td>IG (EdW, 90% up to €20,000)</td></tr>
@@ -187,37 +202,25 @@
   <p>Euro funding avoids a conversion step. Ask each broker which base currencies it offers.</p>
   <p>Euro payments inside the EU cost the same as domestic ones under EU rules. So a SEPA transfer should cost the same as a Dutch one. Ask your bank to be sure.</p>
   <p>iDEAL is the Dutch online bank payment. Ask each broker cashier whether it is offered. Capital.com says it charges no deposit or withdrawal fees.</p>
-  <div class="cp-pay-grid">
-    <div class="cp-pay-item"><span class="cp-pay-icon">🏦</span><span class="cp-pay-name">SEPA Bank Transfer</span><p class="cp-pay-note">Bank fee: ask your bank. Broker fee: ask your broker.</p></div>
-    <div class="cp-pay-item"><span class="cp-pay-icon">🇳🇱</span><span class="cp-pay-name">iDEAL</span><p class="cp-pay-note">Ask the broker cashier.</p></div>
-    <div class="cp-pay-item"><span class="cp-pay-icon">💳</span><span class="cp-pay-name">Bank Cards</span><p class="cp-pay-note">Limits and fees: ask your broker.</p></div>
-  </div>
+  <div class="cp-table-wrap"><table class="bp-table"><thead><tr><th>Payment Method</th><th>Fees and Availability</th></tr></thead><tbody><tr><td>SEPA Bank Transfer</td><td>Bank fee: ask your bank. Broker fee: ask your broker.</td></tr><tr><td>iDEAL</td><td>Ask the broker cashier.</td></tr><tr><td>Bank Cards</td><td>Limits and fees: ask your broker.</td></tr></tbody></table></div>
+  
   <div class="cp-insight"><p><strong>Withdrawal tip:</strong> Send withdrawals back to the account that paid in. A new route triggers extra checks.</p></div>
 </section>
 
-<section class="cp-section" id="tax">
-  <h2 class="cp-section-title">Tax On Forex Profits In The Netherlands</h2>
-  <p class="cp-lead">Box 3 is the usual starting point.</p>
-  <p>Box 3 taxes a deemed return on assets, not actual profit. For 2026 the rate is 36%. The tax free allowance is €59,357 per person. Investments carry a deemed return of 6.00%. Savings carry 1.28% on a provisional basis.</p>
-  <p>A broker balance usually counts as a box 3 asset. Heavy active trading can fall under box 1 instead. Ask a Dutch tax adviser before you file. Keep broker statements for every year.</p>
+<section class="cp-section" id="platforms">
+  <h2 class="cp-section-title">Trading Platforms At The Best Forex Brokers In Netherlands</h2>
+  <p class="cp-lead">Platform choice varies by entity.</p>
+  <h3>Popular Forex Trading Platforms</h3>
+  <div class="cp-table-wrap"><table class="bp-table"><thead><tr><th>Broker</th><th>Published Platforms</th><th>Note</th></tr></thead><tbody>
+<tr><td>Pepperstone</td><td>MT4, MT5, cTrader, TradingView</td><td>Confirm availability for your account entity.</td></tr>
+<tr><td>AvaTrade</td><td>MT4, MT5, WebTrader</td><td>Confirm availability for Dutch residents.</td></tr>
+<tr><td>IG</td><td>IG platform, MT4, ProRealTime</td><td>Access may depend on account type.</td></tr>
+<tr><td>Capital.com</td><td>Proprietary web/mobile platform, TradingView</td><td>Check service offered by its entity.</td></tr>
+<tr><td>XTB</td><td>xStation 5</td><td>No MetaTrader platform is listed here.</td></tr>
+</tbody></table></div><div class="cp-insight"><p><strong>Before choosing:</strong> Confirm platform availability under the entity in your account agreement.</p></div>
 </section>
 
-<section class="cp-section" id="howtostart">
-  <h2 class="cp-section-title">Opening An Account With The Best Forex Brokers In Netherlands</h2>
-  <p class="cp-lead">Home regulator first.</p>
-  <div class="cp-steps">
-    <div class="cp-step"><span class="cp-step-num">1</span><span class="cp-step-label">Read the broker's legal page. Note the entity and its home regulator.</span></div>
-    <div class="cp-step"><span class="cp-step-num">2</span><span class="cp-step-label">Choose the Netherlands when you register. Walk away if it is absent.</span></div>
-    <div class="cp-step"><span class="cp-step-num">3</span><span class="cp-step-label">Upload a passport or Dutch ID card plus a proof of address.</span></div>
-    <div class="cp-step"><span class="cp-step-num">4</span><span class="cp-step-label">Send a small SEPA transfer in euro.</span></div>
-    <div class="cp-step"><span class="cp-step-num">5</span><span class="cp-step-label">Open a demo account first. Then fund a small live balance.</span></div>
-  </div>
-  <div class="cp-flist">
-    <div class="cp-ok"><p><strong>Demo First:</strong> Learn the platform before you risk euros.</p></div>
-    <div class="cp-ok"><p><strong>Entity Match:</strong> Compare your agreement with the home regulator's register.</p></div>
-    <div class="cp-no"><p><strong>Status Switch:</strong> Do not request professional status to raise leverage.</p></div>
-  </div>
-</section>
+<section class="cp-section" id="checklist"><h2 class="cp-section-title">Checklist Before Choosing the Best Forex Brokers In Netherlands</h2><div class="cp-flist"><div class="cp-ok"><p><strong>Entity:</strong> Confirm the legal entity and home regulator.</p></div><div class="cp-ok"><p><strong>Costs:</strong> Read the spread, commission and account-fee schedule.</p></div><div class="cp-ok"><p><strong>Funding:</strong> Confirm euro deposit and withdrawal methods in your account.</p></div><div class="cp-ok"><p><strong>Protection:</strong> Read negative balance and compensation terms for that entity.</p></div><div class="cp-no"><p><strong>Do not assume:</strong> Every international payment method or protection scheme applies to all clients.</p></div></div></section>
 
 <section class="cp-section" id="mistakes">
   <h2 class="cp-section-title">Mistakes Dutch Traders Should Avoid</h2>
@@ -228,17 +231,6 @@
     <div class="cp-no"><p><strong>Following Chat Group Tips:</strong> Fake experts push products that may not exist.</p></div>
     <div class="cp-no"><p><strong>Ignoring Box 3:</strong> A trading balance can still be taxed.</p></div>
     <div class="cp-no"><p><strong>Chasing Bonuses:</strong> AFM rules bar sign up bonuses on retail CFDs.</p></div>
-  </div>
-</section>
-
-<section class="cp-section" id="regexplained">
-  <h2 class="cp-section-title">Dutch Rules, Leverage And Protection</h2>
-  <p class="cp-lead">Passports change the rules.</p>
-  <div class="cp-reg-grid">
-    <div class="cp-reg-card"><h3 class="cp-reg-title">Legality</h3><p class="cp-reg-text">No ban on retail forex applies. AFM national measures restrict CFD sales to retail clients. Binary options are banned.</p></div>
-    <div class="cp-reg-card"><h3 class="cp-reg-title">Leverage</h3><p class="cp-reg-text">All five apply the EU retail cap of 1:30 on major pairs. Lower caps apply to other assets. Professional clients can ask for more with fewer protections.</p></div>
-    <div class="cp-reg-card"><h3 class="cp-reg-title">Passport Gap</h3><p class="cp-reg-text">None of the five holds an AFM licence. Regulators in Germany, Cyprus, Ireland and Poland supervise them. The Dutch compensation scheme covers Dutch licensed firms only.</p></div>
-    <div class="cp-reg-card"><h3 class="cp-reg-title">Compensation</h3><p class="cp-reg-text">IG names EdW with a €20,000 limit. Capital.com names the Cyprus fund. The other three rely on home state schemes named in their agreements.</p></div>
   </div>
 </section>
 
@@ -269,11 +261,39 @@
   </ul>
 </section>
 
-<section class="cp-section" id="platforms">
-  <h2 class="cp-section-title">Trading Platforms At The Best Forex Brokers In Netherlands</h2>
-  <p class="cp-lead">Platform choice varies by entity.</p>
-  <h3>Popular Forex Trading Platforms</h3>
-  <p>Pepperstone offers MT4, MT5, cTrader and TradingView. AvaTrade offers MT4, MT5 and WebTrader. IG runs its own platform beside MT4 and ProRealTime. Capital.com uses its own web and mobile platform with TradingView. XTB offers xStation 5 only. EU rules can limit a platform for Dutch clients, so read your entity's page.</p>
+<section class="cp-section" id="regexplained">
+  <h2 class="cp-section-title">Dutch Rules, Leverage And Protection</h2>
+  <p class="cp-lead">Passports change the rules.</p>
+  <div class="cp-reg-grid">
+    <div class="cp-reg-card"><h3 class="cp-reg-title">Legality</h3><p class="cp-reg-text">No ban on retail forex applies. AFM national measures restrict CFD sales to retail clients. Binary options are banned.</p></div>
+    <div class="cp-reg-card"><h3 class="cp-reg-title">Leverage</h3><p class="cp-reg-text">All five apply the EU retail cap of 1:30 on major pairs. Lower caps apply to other assets. Professional clients can ask for more with fewer protections.</p></div>
+    <div class="cp-reg-card"><h3 class="cp-reg-title">Passport Gap</h3><p class="cp-reg-text">None of the five holds an AFM licence. Regulators in Germany, Cyprus, Ireland and Poland supervise them. The Dutch compensation scheme covers Dutch licensed firms only.</p></div>
+    <div class="cp-reg-card"><h3 class="cp-reg-title">Compensation</h3><p class="cp-reg-text">IG names EdW with a €20,000 limit. Capital.com names the Cyprus fund. The other three rely on home state schemes named in their agreements.</p></div>
+  </div>
+</section>
+
+<section class="cp-section" id="tax">
+  <h2 class="cp-section-title">Tax On Forex Profits In The Netherlands</h2>
+  <p class="cp-lead">Box 3 is the usual starting point.</p>
+  <p>Box 3 taxes a deemed return on assets, not actual profit. For 2026 the rate is 36%. The tax free allowance is €59,357 per person. Investments carry a deemed return of 6.00%. Savings carry 1.28% on a provisional basis.</p>
+  <p>A broker balance usually counts as a box 3 asset. Heavy active trading can fall under box 1 instead. Ask a Dutch tax adviser before you file. Keep broker statements for every year.</p>
+</section>
+
+<section class="cp-section" id="howtostart">
+  <h2 class="cp-section-title">Opening An Account With The Best Forex Brokers In Netherlands</h2>
+  <p class="cp-lead">Home regulator first.</p>
+  <div class="cp-steps">
+    <div class="cp-step"><span class="cp-step-num">1</span><span class="cp-step-label">Read the broker's legal page. Note the entity and its home regulator.</span></div>
+    <div class="cp-step"><span class="cp-step-num">2</span><span class="cp-step-label">Choose the Netherlands when you register. Walk away if it is absent.</span></div>
+    <div class="cp-step"><span class="cp-step-num">3</span><span class="cp-step-label">Upload a passport or Dutch ID card plus a proof of address.</span></div>
+    <div class="cp-step"><span class="cp-step-num">4</span><span class="cp-step-label">Send a small SEPA transfer in euro.</span></div>
+    <div class="cp-step"><span class="cp-step-num">5</span><span class="cp-step-label">Open a demo account first. Then fund a small live balance.</span></div>
+  </div>
+  <div class="cp-flist">
+    <div class="cp-ok"><p><strong>Demo First:</strong> Learn the platform before you risk euros.</p></div>
+    <div class="cp-ok"><p><strong>Entity Match:</strong> Compare your agreement with the home regulator's register.</p></div>
+    <div class="cp-no"><p><strong>Status Switch:</strong> Do not request professional status to raise leverage.</p></div>
+  </div>
 </section>
 
 <section class="cp-section" id="faqs">
@@ -302,3 +322,6 @@
     <span class="cp-verdict-pill">Widest Platforms Pepperstone</span>
   </div>
 </section>
+
+
+
